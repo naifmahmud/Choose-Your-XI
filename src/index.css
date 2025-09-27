@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+.bannerBackground{
+    background-image: url('./assets/bg-shadow.png');
+    background-color: #000000;
+    width: 100%;
+    justify-items: center;
+    border-radius: 20px;
+    padding: 60px;
+}
+
+.bannerButton{
+    @apply border border-[#E7FE29] cursor-pointer py-1 w-[151px] rounded-2xl mx-auto;
+}

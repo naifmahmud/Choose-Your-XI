@@ -1,0 +1,122 @@
+[
+  {
+    "player-image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Virat_Kohli_portrait.jpg",
+    "player-name": "Virat Kohli",
+    "player-country": "India",
+    "playing-role": "Top-order batter",
+    "rating": 98,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm medium (occasional)",
+    "price": 2500000
+  },
+  {
+    "player-image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Ben_Stokes.jpg",
+    "player-name": "Ben Stokes",
+    "player-country": "England",
+    "playing-role": "All-rounder",
+    "rating": 95,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Right-arm fast-medium",
+    "price": 2200000
+  },
+  {
+    "player-image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Rashid_Khan.jpg",
+    "player-name": "Rashid Khan",
+    "player-country": "Afghanistan",
+    "playing-role": "Bowling all-rounder",
+    "rating": 93,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm legbreak",
+    "price": 1500000
+  },
+  {
+    "player-image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Kane_Williamson.jpg",
+    "player-name": "Kane Williamson",
+    "player-country": "New Zealand",
+    "playing-role": "Top-order batter",
+    "rating": 92,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm offbreak (occasional)",
+    "price": 1800000
+  },
+  {
+    "player-image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Jasprit_Bumrah.jpg",
+    "player-name": "Jasprit Bumrah",
+    "player-country": "India",
+    "playing-role": "Fast bowler",
+    "rating": 96,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm fast",
+    "price": 2000000
+  },
+  {
+    "player-image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/DAVID_WARNER_%2811704889424%29.jpg",
+    "player-name": "David Warner",
+    "player-country": "Australia",
+    "playing-role": "Opening batter",
+    "rating": 90,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Right-arm legbreak (occasional)",
+    "price": 1600000
+  },
+  {
+    "player-image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Babar_Azam_in_2020.png",
+    "player-name": "Babar Azam",
+    "player-country": "Pakistan",
+    "playing-role": "Top-order batter",
+    "rating": 94,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm offbreak (occasional)",
+    "price": 1700000
+  },
+  {
+    "player-image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Trent_Boult.jpg",
+    "player-name": "Trent Boult",
+    "player-country": "New Zealand",
+    "playing-role": "Left-arm fast-medium bowler",
+    "rating": 89,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Left-arm fast-medium",
+    "price": 1200000
+  },
+  {
+    "player-image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Shakib_Al_Hasan_IMG.jpg",
+    "player-name": "Shakib Al Hasan",
+    "player-country": "Bangladesh",
+    "playing-role": "All-rounder",
+    "rating": 91,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Left-arm orthodox",
+    "price": 1400000
+  },
+  {
+    "player-image": "https://upload.wikimedia.org/wikipedia/commons/6/67/QUINTON_DE_KOCK_%2815681398316%29.jpg",
+    "player-name": "Quinton de Kock",
+    "player-country": "South Africa",
+    "playing-role": "Wicket-keeper batter",
+    "rating": 88,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Right-arm medium (rare)",
+    "price": 1300000
+  },
+  {
+    "player-image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Andre_Russell_%281%29.jpg",
+    "player-name": "Andre Russell",
+    "player-country": "West Indies",
+    "playing-role": "Power-hitter / All-rounder",
+    "rating": 92,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm fast",
+    "price": 1900000
+  },
+  {
+    "player-image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Steve_Smith_Cricketer.jpg",
+    "player-name": "Steve Smith",
+    "player-country": "Australia",
+    "playing-role": "Top-order batter",
+    "rating": 93,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm legbreak (occasional)",
+    "price": 1750000
+  }
+]
