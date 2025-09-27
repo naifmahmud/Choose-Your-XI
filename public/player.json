@@ -4,7 +4,7 @@
     "player-name": "Virat Kohli",
     "player-country": "India",
     "playing-role": "Top-order batter",
-    "rating": 98,
+    "rating": 1,
     "bating-style": "Right-hand bat",
     "bowling-style": "Right-arm medium (occasional)",
     "price": 2500000
@@ -14,7 +14,7 @@
     "player-name": "Ben Stokes",
     "player-country": "England",
     "playing-role": "All-rounder",
-    "rating": 95,
+    "rating": 2,
     "bating-style": "Left-hand bat",
     "bowling-style": "Right-arm fast-medium",
     "price": 2200000
@@ -24,7 +24,7 @@
     "player-name": "Rashid Khan",
     "player-country": "Afghanistan",
     "playing-role": "Bowling all-rounder",
-    "rating": 93,
+    "rating": 3,
     "bating-style": "Right-hand bat",
     "bowling-style": "Right-arm legbreak",
     "price": 1500000
@@ -34,7 +34,7 @@
     "player-name": "Kane Williamson",
     "player-country": "New Zealand",
     "playing-role": "Top-order batter",
-    "rating": 92,
+    "rating": 4,
     "bating-style": "Right-hand bat",
     "bowling-style": "Right-arm offbreak (occasional)",
     "price": 1800000
@@ -44,7 +44,7 @@
     "player-name": "Jasprit Bumrah",
     "player-country": "India",
     "playing-role": "Fast bowler",
-    "rating": 96,
+    "rating": 5,
     "bating-style": "Right-hand bat",
     "bowling-style": "Right-arm fast",
     "price": 2000000
@@ -54,7 +54,7 @@
     "player-name": "David Warner",
     "player-country": "Australia",
     "playing-role": "Opening batter",
-    "rating": 90,
+    "rating": 6,
     "bating-style": "Left-hand bat",
     "bowling-style": "Right-arm legbreak (occasional)",
     "price": 1600000
@@ -64,7 +64,7 @@
     "player-name": "Babar Azam",
     "player-country": "Pakistan",
     "playing-role": "Top-order batter",
-    "rating": 94,
+    "rating": 7,
     "bating-style": "Right-hand bat",
     "bowling-style": "Right-arm offbreak (occasional)",
     "price": 1700000
@@ -74,7 +74,7 @@
     "player-name": "Trent Boult",
     "player-country": "New Zealand",
     "playing-role": "Left-arm fast-medium bowler",
-    "rating": 89,
+    "rating": 8,
     "bating-style": "Left-hand bat",
     "bowling-style": "Left-arm fast-medium",
     "price": 1200000
@@ -84,7 +84,7 @@
     "player-name": "Shakib Al Hasan",
     "player-country": "Bangladesh",
     "playing-role": "All-rounder",
-    "rating": 91,
+    "rating": 9,
     "bating-style": "Left-hand bat",
     "bowling-style": "Left-arm orthodox",
     "price": 1400000
@@ -94,7 +94,7 @@
     "player-name": "Quinton de Kock",
     "player-country": "South Africa",
     "playing-role": "Wicket-keeper batter",
-    "rating": 88,
+    "rating": 10,
     "bating-style": "Left-hand bat",
     "bowling-style": "Right-arm medium (rare)",
     "price": 1300000
@@ -104,7 +104,7 @@
     "player-name": "Andre Russell",
     "player-country": "West Indies",
     "playing-role": "Power-hitter / All-rounder",
-    "rating": 92,
+    "rating": 11,
     "bating-style": "Right-hand bat",
     "bowling-style": "Right-arm fast",
     "price": 1900000
@@ -114,7 +114,7 @@
     "player-name": "Steve Smith",
     "player-country": "Australia",
     "playing-role": "Top-order batter",
-    "rating": 93,
+    "rating": 12,
     "bating-style": "Right-hand bat",
     "bowling-style": "Right-arm legbreak (occasional)",
     "price": 1750000

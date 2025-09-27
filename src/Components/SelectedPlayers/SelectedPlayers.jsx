@@ -1,11 +1,21 @@
 import React from 'react';
+import Container from '../Container';
 
-const SelectedPlayers = () => {
+import PurchasedPlayers from './PurchasedPlayers';
+
+const SelectedPlayers = ({purchasedPlayers,removedPlayer}) => {
+    // console.log(purchasedPlayers);
     return (
-        <div>
-            selected
+        <div className='mt-20 space-y-7'>
+            
+            {
+                purchasedPlayers.map(playerDetails=> <PurchasedPlayers playerDetails={playerDetails} removedPlayer={removedPlayer}></PurchasedPlayers>)
+            }
+            
         </div>
+        
     );
+    
 };
 
 export default SelectedPlayers;

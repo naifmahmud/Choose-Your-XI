@@ -14,3 +14,7 @@
 .bannerButton{
     @apply border border-[#E7FE29] cursor-pointer py-1 w-[151px] rounded-2xl mx-auto;
 }
+
+.cardBody{
+    @apply text-base flex justify-between items-center;
+}
