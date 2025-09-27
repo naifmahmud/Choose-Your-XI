@@ -9,7 +9,7 @@ const Players = ({player,availableBalace,setAvailableBalance,purchasedPlayers,se
   const [isSelected,setIsSelected]=useState(false);
 
     return (
-            <div className='mx-auto'> 
+                  <div className='mx-auto'>
                 <Container>
                 <div className="card bg-base-100 w-96 shadow-sm">
               <figure className='w-[300px] h-52 mx-auto rounded-xl'>
@@ -27,7 +27,7 @@ const Players = ({player,availableBalace,setAvailableBalance,purchasedPlayers,se
                     </div>
                     <h6 className='rounded-[8px] py-2 px-2.5 bg-gray-200'>{player['playing-role']}</h6>
                 </div>
-                <div className='cardBody gap-20 '> 
+                <div className='cardBody gap-20'> 
                     <p className='text-start'>{player['bating-style']}</p>
                     <p className='text-end'>{player['bowling-style']}</p>
                 </div>

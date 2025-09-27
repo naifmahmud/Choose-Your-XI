@@ -6,7 +6,7 @@ import PurchasedPlayers from './PurchasedPlayers';
 const SelectedPlayers = ({purchasedPlayers,removedPlayer}) => {
     // console.log(purchasedPlayers);
     return (
-        <div className='mt-20 space-y-7'>
+        <div className='my-20 space-y-7'>
             
             {
                 purchasedPlayers.map(playerDetails=> <PurchasedPlayers playerDetails={playerDetails} removedPlayer={removedPlayer}></PurchasedPlayers>)

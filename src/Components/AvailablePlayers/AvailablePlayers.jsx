@@ -6,7 +6,7 @@ const AvailablePlayers = ({playersData,availableBalace,setAvailableBalance,purch
     const playerData= use(playersData);
     
  return(
-    <div className='grid space-y-5 lg:grid-cols-3 gap-5 mx-auto'>
+    <div className='my-40 grid space-x-0 space-y-5 lg:grid-cols-3'>
 
         {
             playerData.map(player => <Players availableBalace={availableBalace} setAvailableBalance={setAvailableBalance} purchasedPlayers={purchasedPlayers} setPurchasedPlayers={setPurchasedPlayers} player={player}> </Players>)
